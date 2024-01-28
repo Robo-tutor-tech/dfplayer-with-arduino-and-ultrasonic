@@ -1,7 +1,7 @@
 # DFPlayer mini with Arduino nano
 
 ## Connection 
-![Alt text](image.png)
+![Alt text](docs/image.png)
 
 | DFPlayer Mini | Arduino nano |
 |-----------------|-----------------|
